@@ -16,3 +16,5 @@ FOR THE DATA.PREP
 https://sfu-db.github.io/dataprep/api_reference/dataprep.html#reference
 
 https://github.com/sfu-db/dataprep
+
+https://sfu-db.github.io/dataprep/user_guide/eda/introduction.html
